@@ -49,7 +49,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=UddiptaSingha&theme=onestar&no-frame=true&margin-w=10&rank=A,B,C" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Uddipta7&theme=onestar&no-frame=true&margin-w=10&rank=A,B,C" />
 </p>
 
 ### 🌐 Connect with Me
