@@ -20,19 +20,20 @@
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NodeJs-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Pandas-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Matplotlib-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Streamlit-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Git-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Java-fff?style=flat-square&logo=java&logoColor=orange"/>
+  <img src="https://img.shields.io/badge/-Python-fff?style=flat-square&logo=python&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/-C++-fff?style=flat-square&logo=c%2B%2B&logoColor=00599C"/>
+  <img src="https://img.shields.io/badge/-React-fff?style=flat-square&logo=react"/>
+  <img src="https://img.shields.io/badge/-Node.js-fff?style=flat-square&logo=nodedotjs&logoColor=green"/>
+  <img src="https://img.shields.io/badge/-Bootstrap-fff?style=flat-square&logo=bootstrap&logoColor=purple"/>
+  <img src="https://img.shields.io/badge/-TailwindCSS-fff?style=flat-square&logo=bootstrap&logoColor=purple"/>
+  <img src="https://img.shields.io/badge/-SQL-fff?style=flat-square&logo=mysql"/>
+  <img src="https://img.shields.io/badge/-HTML5-fff?style=flat-square&logo=html5&logoColor=E34F26"/>
+  <img src="https://img.shields.io/badge/-CSS3-fff?style=flat-square&logo=css3&logoColor=1572B6"/>
+  <img src="https://img.shields.io/badge/-Pandas-fff?style=flat-square&logo=pandas&logoColor=150458"/>
+  <img src="https://img.shields.io/badge/-Matplotlib-fff?style=flat-square&logo=plotly&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/-Streamlit-fff?style=flat-square&logo=streamlit&logoColor=FF4B4B"/>
+  <img src="https://img.shields.io/badge/-Git-fff?style=flat-square&logo=git&logoColor=F05032"/>
 </p>
 
 ---
