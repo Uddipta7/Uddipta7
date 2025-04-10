@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Uddipta Singha</h1>
-<h3 align="center">Aspiring Developer | AI/ML Enthusiast | Curious Mind</h3>
+<h3 align="center">Full Stack Developer | AI/ML Enthusiast | Curious Mind</h3>
 
 <p align="center">
   <img src="https://github.com/Uddipta7/Uddipta7/raw/main/banner.png" alt="Uddipta Banner" width="90%" />
@@ -20,20 +20,21 @@
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/-Java-fff?style=flat-square&logo=java&logoColor=orange"/>
-  <img src="https://img.shields.io/badge/-Python-fff?style=flat-square&logo=python&logoColor=blue"/>
-  <img src="https://img.shields.io/badge/-C++-fff?style=flat-square&logo=c%2B%2B&logoColor=00599C"/>
-  <img src="https://img.shields.io/badge/-React-fff?style=flat-square&logo=react"/>
-  <img src="https://img.shields.io/badge/-Node.js-fff?style=flat-square&logo=nodedotjs&logoColor=green"/>
-  <img src="https://img.shields.io/badge/-Bootstrap-fff?style=flat-square&logo=bootstrap&logoColor=purple"/>
-  <img src="https://img.shields.io/badge/-TailwindCSS-fff?style=flat-square&logo=bootstrap&logoColor=purple"/>
-  <img src="https://img.shields.io/badge/-SQL-fff?style=flat-square&logo=mysql"/>
-  <img src="https://img.shields.io/badge/-HTML5-fff?style=flat-square&logo=html5&logoColor=E34F26"/>
-  <img src="https://img.shields.io/badge/-CSS3-fff?style=flat-square&logo=css3&logoColor=1572B6"/>
-  <img src="https://img.shields.io/badge/-Pandas-fff?style=flat-square&logo=pandas&logoColor=150458"/>
-  <img src="https://img.shields.io/badge/-Matplotlib-fff?style=flat-square&logo=plotly&logoColor=blue"/>
-  <img src="https://img.shields.io/badge/-Streamlit-fff?style=flat-square&logo=streamlit&logoColor=FF4B4B"/>
-  <img src="https://img.shields.io/badge/-Git-fff?style=flat-square&logo=git&logoColor=F05032"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/C++/C++-original.svg" alt="android" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="css3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/Python/Python-original.svg" alt="css3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactJs/reactJs-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/Javascript/Javascript-original.svg" alt="css3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/NodeJs/NodeJs-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ExpressJS/ExpressJS-original.svg" alt="css3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/NumPy/NumPy-original.svg" alt="pytorch" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/Pandas/Pandas-original.svg" alt="css3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/Matplotlib/Matplotlib-original.svg" alt="tensorflow" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/Git/Git-original.svg" alt="css3" width="40" height="40"/>
 </p>
 
 ---
@@ -46,6 +47,10 @@
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=UddiptaSingha&theme=onestar&no-frame=true&margin-w=10&rank=A,B,C" />
+</p>
 
 ### 🌐 Connect with Me
 
